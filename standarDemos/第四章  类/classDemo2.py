@@ -2,8 +2,8 @@
 
 #定义类的成员变量，定义类的方法，必须要有一个self。定义self的对象的变量,否者无法设定这个对象的方法属性（也是成员变量）
 class Person:
-	#这个属性是私有属性。所以能使用对象.__name访问
-	__name = '私密属性'
+	#这个属性是私有属性。所以不能使用对象.__name访问
+	_name = '私密属性'
 	#这个倒是可以访问。
 	userid = '110'
 	def set_name(self,name):
@@ -24,6 +24,8 @@ person.set_name('Hello')
 person.greet();
 # 只要设定
 print(person,person.name)
+print("=====================")
+print(person._name)
 person.set_age(10)
 print(person.age)
 # 这样也是可以修改对象成员变量的值。也可以调用set_age。
