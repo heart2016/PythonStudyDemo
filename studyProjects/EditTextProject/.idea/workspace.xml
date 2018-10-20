@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d0b3a27-8e11-4d59-bcc5-af7569d998a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/HTMLRender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/Handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/HeadingRule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/ListItemRule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/ListRule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/ParagraphRule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/Parse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/Rule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/TitleRule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/excuse_exsample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract_Example/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_example/simple_markup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple_example/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../standarDemos/第一章  基础/china.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../standarDemos/第一章  基础/china.py" afterDir="false" />
-    </list>
+    <list default="true" id="4d0b3a27-8e11-4d59-bcc5-af7569d998a3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +26,11 @@
     <session id="2008108699">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -96,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/abstract_Example/HTMLRender.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
               <folding>
                 <marker date="1539998975469" expanded="true" signature="223:261" ph="..." />
                 <marker date="1539998975469" expanded="true" signature="270:275" ph="..." />
@@ -124,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/abstract_Example/Parse.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="494">
               <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding>
                 <element signature="e#13#22#0" expanded="true" />
@@ -189,7 +172,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -205,15 +188,6 @@
       <pane id="ProjectPane">
         <subPane>
           <expand>
-            <path>
-              <item name="EditTextProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EditTextProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EditTextProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EditTextProject" type="462c0819:PsiDirectoryNode" />
-              <item name="abstract_Example" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="EditTextProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
@@ -265,10 +239,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22386059" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20442359" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -392,24 +365,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abstract_Example/excuse_exsample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/abstract_Example/ListItemRule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="35" lean-forward="true" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
-          <folding>
-            <marker date="1539520957768" expanded="true" signature="49:50" ph="..." />
-            <marker date="1539520957768" expanded="true" signature="49:54" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -417,30 +376,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <marker date="1539521276039" expanded="true" signature="57:62" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abstract_Example/ListRule.py">
+    <entry file="file://$PROJECT_DIR$/text002.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
-          <folding>
-            <marker date="1539521162374" expanded="true" signature="69:70" ph="..." />
-            <marker date="1539521162374" expanded="true" signature="69:75" ph="..." />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/abstract_Example/Parse.py">
+    <entry file="file://$PROJECT_DIR$/abstract_Example/excuse_exsample.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="247">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
           <folding>
-            <element signature="e#13#22#0" expanded="true" />
-            <marker date="1539527322855" expanded="true" signature="54:59" ph="..." />
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -456,17 +407,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/text002.html">
+    <entry file="file://$PROJECT_DIR$/abstract_Example/Parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="494">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+          <folding>
+            <element signature="e#13#22#0" expanded="true" />
+            <marker date="1539527322855" expanded="true" signature="54:59" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abstract_Example/ListRule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+          <folding>
+            <marker date="1539521162374" expanded="true" signature="69:70" ph="..." />
+            <marker date="1539521162374" expanded="true" signature="69:75" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/abstract_Example/HTMLRender.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding>
             <marker date="1539998975469" expanded="true" signature="223:261" ph="..." />
             <marker date="1539998975469" expanded="true" signature="270:275" ph="..." />
